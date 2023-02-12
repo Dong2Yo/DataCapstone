@@ -43,6 +43,8 @@ website:
         text: R Markdown files
       - href: content/code.qmd
         text: Code in your files
+      - href: content/Wk6_Intro-to-Exploratory-Data-Analysis.qmd
+        text: Intro to Data Exploratory Analysis 
       - href: content/acknowledgements.qmd
         text: Acknowledgements
 
